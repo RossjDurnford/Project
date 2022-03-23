@@ -1,0 +1,99 @@
+h1 {
+    text-transform:capitalize;
+    text-decoration: underline;
+    text-align:center;
+    font-size:72px;
+    background:-webkit-linear-gradient(white,darkgoldenrod,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2{
+    text-transform:capitalize;
+    text-decoration: underline;
+    text-align: center;
+    margin:auto;
+    color:darkgoldenrod;
+    padding-left: 5%;
+    padding-right:5%;}
+body {
+    background-image:url(https://i.imgur.com/eyUKj8F.jpeg);
+    font-family:arial;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+
+}
+div {
+    word-wrap: normal;
+    overflow:visible;
+    margin:auto;
+    max-width:fit-content;
+}
+p{
+    max-width:600px;
+    margin:auto;
+    padding-left:5%;
+    padding-right:5%;
+    font-size:large;
+}
+#links{
+    padding-bottom:10px;
+
+    }
+    .bt{
+        display:inline-block;
+    }
+#right{
+    float:right;
+    margin:auto;
+    word-wrap: break-word;
+    max-width:25%;
+}
+#h1plist{
+    color:darkgoldenrod;
+}
+a{
+    font-size:20px;
+    color:darkslategrey;
+    text-transform:capitalize;
+}
+#caps{
+    text-align: center;
+}
+div #footer{
+    padding:20%;
+}
+#fact1{
+    color:ghostwhite;
+}
+#link2{
+    position:relative;
+    left:175px;
+    bottom:64px
+}
+#link1{
+    position:relative;
+    right:150px;
+}
+#but1{
+    padding: 20px;
+    font-size: large;
+    background:-webkit-linear-gradient(darkgoldenrod,white);
+    border-radius:5px;
+}
+#but2{
+    padding: 20px;
+    font-size: large;
+    background:-webkit-linear-gradient(darkgoldenrod,white);
+    border-radius:5px;
+}
+#but2:hover{
+    background:-webkit-linear-gradient(rgba(9, 85, 185, 0.459),white);
+    letter-spacing: 0.5px;
+}
+#but1:hover{
+    background:-webkit-linear-gradient(rgba(9, 85, 185, 0.459),white);
+    letter-spacing: 0.5px;
+}

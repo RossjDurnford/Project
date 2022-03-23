@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+    margin:auto;
+    font-size:large;
+    background-image: url(https://i.imgur.com/saKj33M.png);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+}
+div{
+    border-radius:15px;
+    margin:auto;
+    max-width: 700px;
+}
+h1{
+    font-size:72px;
+    background:-webkit-linear-gradient(white,darkslategrey,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    
+
+}
+ol{
+    background:-webkit-linear-gradient(rgb(49, 46, 46),white,rgb(10, 71, 141));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    
+}
+h2{
+    font-size:xxx-large;
+    background:-webkit-linear-gradient(white,grey,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+#pose{
+    background:-webkit-linear-gradient(blue,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    
+}
+#posep{
+    background:-webkit-linear-gradient(blue,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    font-size:x-large;
+    
+}
+#ares{
+    background:-webkit-linear-gradient(gold,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+#aresp{
+    background:-webkit-linear-gradient(gold,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    font-size:x-large;
+}
+#zeus{
+    background:-webkit-linear-gradient(gold,aqua);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+#zeusp{
+    background:-webkit-linear-gradient(gold,aqua);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    font-size:x-large;
+}
+#herm{
+    background:-webkit-linear-gradient(gold,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+#hermp{
+    background:-webkit-linear-gradient(gold,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    font-size:x-large;
+}
+#heph{
+    background:-webkit-linear-gradient(black,red,orange);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
+#hephp{
+    background:-webkit-linear-gradient(yellow,red,yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    font-size:x-large;
+}
+
