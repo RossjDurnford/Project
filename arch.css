@@ -2,8 +2,7 @@ body{
     text-align: center;
     margin:auto;
     font-size:large;
-    background:-webkit-linear-gradient(white,rgb(46, 152, 201),white);
-    max-width: 100%;
+    background:-webkit-linear-gradient(white,rgb(46, 152, 201),white)
 
 }
 div{
@@ -24,15 +23,16 @@ h2{
 }
 #home{
     font-size:xx-large;
-    padding-right:10%;
+    padding:20px;
     color:black;
 }
 #arch{
     font-size:xx-large;
+    padding:20px;
     color:black;
 }
 #gods{
-    padding-right:10%;
+    padding:20px;
     color:black;
     font-size:xx-large;
 }

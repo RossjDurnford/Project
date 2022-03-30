@@ -17,33 +17,20 @@ h2{
     padding-left: 5%;
     padding-right:5%;}
 body {
-    background-image:url(https://i.imgur.com/eyUKj8F.jpeg);
-    font-family:arial;
-    background-repeat: no-repeat;
-    background-size:cover;
-    
-    
+        font-family:arial;
+        background:-webkit-linear-gradient(white,rgb(46, 152, 201),white);
+    }
 
-}
-div {
-    word-wrap: normal;
-    overflow:visible;
-    margin:auto;
-    max-width:fit-content;
-}
 p{
-    max-width:600px;
+    max-width:800px;
     margin:auto;
     padding-left:5%;
     padding-right:5%;
     font-size:large;
 }
 #links{
-    padding-bottom:10px;
+    padding-bottom:2%;
 
-    }
-    .bt{
-        display:inline-block;
     }
 #right{
     float:right;
@@ -63,37 +50,30 @@ a{
     text-align: center;
 }
 div #footer{
-    padding:20%;
+    padding:10%;
 }
-#fact1{
-    color:ghostwhite;
+#gods{
+    padding-right:10%;
+    color:black;
+    font-size:xx-large;
 }
-#link2{
-    position:relative;
-    left:175px;
-    bottom:64px
+#arch{
+    color:black;
+    font-size:xx-large
 }
-#link1{
-    position:relative;
-    right:150px;
+#home{
+    padding-right:10%;
+    color:black;
+    font-size:xx-large
+    
 }
-#but1{
-    padding: 20px;
-    font-size: large;
-    background:-webkit-linear-gradient(darkgoldenrod,white);
-    border-radius:5px;
+nav{
+    position:fixed;
+    top:0;
+    width:100%;
+    background-color:rgb(46, 152, 201);
+text-align: center;
 }
-#but2{
-    padding: 20px;
-    font-size: large;
-    background:-webkit-linear-gradient(darkgoldenrod,white);
-    border-radius:5px;
-}
-#but2:hover{
-    background:-webkit-linear-gradient(rgba(9, 85, 185, 0.459),white);
-    letter-spacing: 0.5px;
-}
-#but1:hover{
-    background:-webkit-linear-gradient(rgba(9, 85, 185, 0.459),white);
-    letter-spacing: 0.5px;
+form{
+    text-align: center;
 }
